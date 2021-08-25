@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 This repo contains some notes, skills and experience for exercise on leetcode website.
 
 Different type problems are programmed in cpp & python.
